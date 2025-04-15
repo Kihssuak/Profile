@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kausshik<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+<h1 align="center">Hey there, I'm Kausshik<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 <h3 align="center">AI Enthusiast and a Multipotentialite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikt07&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikt07" /> </p>
@@ -57,7 +57,7 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
+
 
 
 
