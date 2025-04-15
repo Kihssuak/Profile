@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kaushik<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h1>
+<h1 align="center">Hey there, I'm Kausshik<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
 <h3 align="center">AI Enthusiast and a Multipotentialite</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikt07&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikt07" /> </p>
