@@ -1,65 +1,108 @@
-<h1 align="center">Hey there, I'm Kausshik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
-<h3 align="center">AI Enthusiast • Data Analyst • Multipotentialite 🌟</h3>
+<!-- Typing intro using Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Kausshik+👋;AI+Enthusiast+%7C+Data+Analyst+%7C+Creative+Mind;Welcome+to+my+GitHub+space!+💫" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushikt07&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikt07" />
+  <img src="https://komarev.com/ghpvc/?username=Kihssuak&label=Profile%20views&color=38bdf8&style=flat-square" alt="Kihssuak" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Data Analytics**
-- 🌱 Learning **Machine Learning** and **AI Systems**
-- 👯 Open to collaborating on **Open Source Projects**
-- 💬 Ask me about **Python, MySQL, Data Visualization**
+- 🔭 Currently working on **Data Analytics Projects**
+- 🌱 Learning more about **Machine Learning & AI**
+- 👯 Collaborating on **Open Source Projects**
+- 💬 Ask me about **Python, SQL, DataViz**
 - 📫 Reach me at: **mailkausshik@gmail.com**
-- 📄 [View My Resume](https://cutt.ly/VFPU70p)
+- 📄 [My Resume](https://cutt.ly/VFPU70p) *(Projects + Certifications included!)*
 - ⚡ Fun fact: **I Think I Am Funny 😄**
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/kaushikt07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/iamkausshik" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/iamkausshik/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://twitter.com/kaushikt07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/iamkausshik" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.instagram.com/iamkausshik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kaushikt07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💻 Languages & Tools
+### 🚀 Pinned Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kihssuak/Ecommerce-Sales-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kihssuak&repo=Ecommerce-Sales-Dashboard&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kihssuak/Personality-Prediction-Twitter-ML">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kihssuak&repo=Personality-Prediction-Twitter-ML&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kihssuak/Road-Detection-Satellite-ML">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kihssuak&repo=Road-Detection-Satellite-ML&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,git,github,linux,pycharm,jupyter,colab,numpy,pandas,opencv,pytorch,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,git,github,linux,pycharm,jupyter,colab,numpy,pandas,opencv,pytorch,scikit-learn,excel" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushikt07&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikt07&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kihssuak&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihssuak&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kihssuak&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🚀 Featured GIFs
+### 🏅 Certifications
+
+- 🧠 Data Analyst Certification  
+- 📘 NISM VIII Equities and Derivatives  
+- 🐍 MySQL + Python Certifications  
+- 🤖 Intro to Machine Learning (NPTEL)  
+- 🛡 Ethical Hacking (zSecurity)
+
+---
+
+### 🎨 Just for Fun
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/11Q9XZsG2e2Bkc/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
 </p>
 
 ---
 
-<h2 align="center">🌟 Support Me by Starring Some of My Repositories!</h2>
+### 🏀 Beyond Code
+
+- 📈 I trade stocks & follow markets  
+- 🧘‍♂️ Gym, mindfulness, and deep learning  
+- 🏀 Love playing basketball with my squad
+
+---
+
+<h2 align="center">🌟 Support me by Starring ⭐ My Projects!</h2>
